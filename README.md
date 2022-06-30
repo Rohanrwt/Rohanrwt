@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Rohanrwt
+
+
+- 👋 Hi, I’m Rohan
 - 👀 I’m interested in Automation 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python Projects
